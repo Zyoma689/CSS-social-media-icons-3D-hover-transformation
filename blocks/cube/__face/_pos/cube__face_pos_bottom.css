@@ -1,0 +1,4 @@
+.cube__face_pos_bottom {
+  transform: rotateX(-90deg) translateZ(100px);
+
+}

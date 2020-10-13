@@ -1,0 +1,9 @@
+.page {
+  height: 80vh;
+  background-color: silver;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}

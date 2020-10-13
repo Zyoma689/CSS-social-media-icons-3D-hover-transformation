@@ -1,0 +1,7 @@
+.cube__face {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  background-color: #fff;
+  background-size: cover;
+}

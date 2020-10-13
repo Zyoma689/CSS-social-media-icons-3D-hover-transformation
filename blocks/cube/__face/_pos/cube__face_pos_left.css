@@ -1,0 +1,3 @@
+.cube__face_pos_left {
+  transform: rotateY(-90deg) translateZ(100px);
+}

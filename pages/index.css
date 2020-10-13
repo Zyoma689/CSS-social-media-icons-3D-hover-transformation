@@ -1,0 +1,35 @@
+/* стили сторонних разработчиков */
+@import url(../vendor/normalize.css);
+
+/* стили для блоков */
+@import url(../blocks/page/page.css);
+@import url(../blocks/scene/scene.css);
+@import url(../blocks/cube/cube.css);
+
+/* стили для элементов */
+@import url(../blocks/cube/__face/cube__face.css);
+
+/* стили для модификаторов */
+@import url(../blocks/cube/__face/_pos/cube__face_pos_front.css);
+@import url(../blocks/cube/__face/_pos/cube__face_pos_back.css);
+@import url(../blocks/cube/__face/_pos/cube__face_pos_left.css);
+@import url(../blocks/cube/__face/_pos/cube__face_pos_right.css);
+@import url(../blocks/cube/__face/_pos/cube__face_pos_top.css);
+@import url(../blocks/cube/__face/_pos/cube__face_pos_bottom.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_facebook-light.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_facebook-dark.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_twitter-light.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_twitter-dark.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_instagram-light.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_instagram-dark.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_vk-light.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_vk-dark.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_telegram-light.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_telegram-dark.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_github-light.css);
+@import url(../blocks/cube/__face/_logo/cube__face_logo_github-dark.css);
+/*
+* {
+  outline: red 1px solid;
+}
+*/
