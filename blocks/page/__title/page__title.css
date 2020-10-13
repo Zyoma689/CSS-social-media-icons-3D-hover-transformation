@@ -2,12 +2,19 @@
   font-size: 6rem;
   font-weight: 900;
   line-height: 1.2;
-  margin: 0 0 80px;
+  margin: 40px 10px 80px;
   text-transform: uppercase;
   background: linear-gradient(45deg, #0B2349 33%, #0D61BC 66%, #3d5cd6);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   color: #0B2349;
   display: table;
+  text-align: center;
 }
 
+@media screen and (max-width: 767px) {
+  .page__title {
+    font-size: 3rem;
+  }
+
+}

@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="172db0f1-505c-4de3-927b-2573f976d0b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/copyright/copyright.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/page/__title/page__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/social-media/social-media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_facebook-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_facebook-light.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_github-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_github-light.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_instagram-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_instagram-light.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_telegram-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_telegram-light.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_twitter-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_twitter-light.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_vk-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cube/__face/_logo/cube__face_logo_vk-light.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cube/__face/cube__face.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cube/__face/cube__face.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/page/__title/page__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/__title/page__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/social-media/social-media.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/social-media/social-media.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602504373938</updated>
-      <workItem from="1602504375039" duration="23823000" />
+      <workItem from="1602504375039" duration="24524000" />
     </task>
     <servers />
   </component>
