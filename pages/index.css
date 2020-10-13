@@ -5,9 +5,12 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/scene/scene.css);
 @import url(../blocks/cube/cube.css);
+@import url(../blocks/social-media/social-media.css);
+@import url(../blocks/copyright/copyright.css);
 
 /* стили для элементов */
 @import url(../blocks/cube/__face/cube__face.css);
+@import url(../blocks/page/__title/page__title.css);
 
 /* стили для модификаторов */
 @import url(../blocks/cube/__face/_pos/cube__face_pos_front.css);

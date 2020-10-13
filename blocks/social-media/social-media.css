@@ -1,0 +1,6 @@
+.social-media {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 222px);
+  justify-content: center;
+}
